@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+scikit-learn
+pyttsx3      # voice on Windows/macOS
+ollama       # optional: local chat model
+anthropic    # optional: better chat replies for the demo (needs ANTHROPIC_API_KEY)
